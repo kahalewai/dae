@@ -33,7 +33,7 @@ The DAE model is built around a strict separation of concerns:
 * Policy systems issue authority
 * Runtime enforcement guarantees compliance
 
-For a complete specification of the DAE standard, including formal definitions, principles, mechanisms, and conformance requirements, see the full reference document in this repository.
+For a complete specification of the DAE standard, including formal definitions, principles, mechanisms, and conformance requirements, see the full reference document: https://github.com/kahalewai/dae/blob/main/dae_standard.md
 
 <br>
 
