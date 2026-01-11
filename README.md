@@ -80,6 +80,8 @@ Participation includes:
 3. Open a Pull Request with proposed edits or additions.
 4. Participate in technical discussions and reviews.
 
+<br>
+
 By working together, we can ensure DAE becomes a **widely adopted, rigorously defined execution standard** that enables trustworthy autonomy across the AI ecosystem.
 
 
