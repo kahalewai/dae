@@ -53,6 +53,12 @@ This execution model is **implementation-agnostic** and applies to single agents
 
 <br>
 
+For a reference implementation of the DAE Standard, visit Agent Policy Engine (APE): [https://github.com/kahalewai/dae/blob/main/dae_standard.md](https://github.com/kahalewai/agent-policy-engine)
+
+
+
+<br>
+
 ## Contribute
 
 DAE is a **production-ready open security standard**, and like all successful standards, it is designed to evolve through **open, collaborative development**. This repository serves as the canonical home for the DAE specification, where the community can propose improvements while preserving the standard’s formal guarantees.
