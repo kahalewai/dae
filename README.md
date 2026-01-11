@@ -1,6 +1,6 @@
 <div align="center">
 
-# DAE Reference Model for AI Agents
+# DAE Standard for AI Agents
 
 Welcome to the **DAE** (Deterministic Agent Execution) Security Specification Landing
 
