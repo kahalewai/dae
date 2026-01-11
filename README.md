@@ -4,7 +4,7 @@
 
 Welcome to the **DAE** (Deterministic Agent Execution) Security Specification Landing
 
-![aosi5](https://github.com/user-attachments/assets/00b23d96-f29f-453b-9be2-5d3e368c1d15)
+![dae](https://github.com/user-attachments/assets/27987a4f-0e49-480e-9350-4bf258957c03)
 
 
 </div>
