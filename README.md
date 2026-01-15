@@ -53,7 +53,7 @@ This execution model is **implementation-agnostic** and applies to single agents
 
 <br>
 
-For a reference implementation of the DAE Standard, visit Agent Policy Engine (APE): [https://github.com/kahalewai/dae/blob/main/dae_standard.md](https://github.com/kahalewai/agent-policy-engine)
+For a reference implementation of the DAE Standard, visit Agent Policy Engine (APE): [https://github.com/kahalewai/agent-policy-engine](https://github.com/kahalewai/agent-policy-engine)
 
 
 
