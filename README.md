@@ -53,7 +53,9 @@ This execution model is implementation-agnostic and applies to single agents, mu
 
 ## View the DAE Security Specification
 
-For a complete specification of the DAE standard, including formal definitions, principles, mechanisms, and conformance requirements, see the full reference document: https://github.com/kahalewai/dae/blob/main/dae_standard.md
+For a complete specification of the DAE standard, including formal definitions, principles, mechanisms, and conformance requirements, see the full reference document: 
+
+https://github.com/kahalewai/dae/blob/main/dae_standard.md
 
 **Status:** Production-Ready  
 **Version:** v1.0.0  
