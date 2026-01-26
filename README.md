@@ -33,8 +33,6 @@ The DAE model is built around a strict separation of concerns:
 * Policy systems issue authority
 * Runtime enforcement guarantees compliance
 
-For a complete specification of the DAE standard, including formal definitions, principles, mechanisms, and conformance requirements, see the full reference document: https://github.com/kahalewai/dae/blob/main/dae_standard.md
-
 <br>
 
 | Component | Name                    | Responsibility                           | Security Guarantee Provided                       |
@@ -53,9 +51,20 @@ This execution model is implementation-agnostic and applies to single agents, mu
 
 <br>
 
-For a reference implementation of the DAE Standard, visit Agent Policy Engine (APE): [https://github.com/kahalewai/agent-policy-engine](https://github.com/kahalewai/agent-policy-engine)
+## View the DAE Security Specification
 
+For a complete specification of the DAE standard, including formal definitions, principles, mechanisms, and conformance requirements, see the full reference document: https://github.com/kahalewai/dae/blob/main/dae_standard.md
 
+**Status:** Production-Ready  
+**Version:** v1.0.0  
+**License:** Apache License 2.0  
+**Date:** 2025-12-22
+
+<br>
+
+## Reference Implementation of DAE
+
+For a reference implementation of the DAE Standard, visit the Agent Policy Engine (APE) Repository: [https://github.com/kahalewai/agent-policy-engine](https://github.com/kahalewai/agent-policy-engine), also released Apache 2.0
 
 <br>
 
