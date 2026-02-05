@@ -2,7 +2,7 @@
 
 # DAE Security Standard for AI Agents
 
-Welcome to the **DAE** (Deterministic Agent Execution) Security Specification Landing
+Welcome to the DAE (Deterministic Agent Execution) Security Specification Landing
 
 ![dae](https://github.com/user-attachments/assets/27987a4f-0e49-480e-9350-4bf258957c03)
 
@@ -11,21 +11,17 @@ Welcome to the **DAE** (Deterministic Agent Execution) Security Specification La
 
 ## Intro
 
-As AI agents become increasingly autonomous, current architectures rely heavily on probabilistic reasoning systems to both decide *what* to do and implicitly authorize *doing it*. This methodology has led to fundamental security and governance failures. DAE (Deterministic Agent Execution) is a security standard for AI agents that proposes a more deterministic methodology inspired by capability-based security. 
+As AI agents become increasingly autonomous, current architectures rely heavily on probabilistic reasoning systems to both decide what to do and implicitly authorize doing it. This methodology has led to fundamental security and governance failures. DAE (Deterministic Agent Execution) is a security standard for AI agents that proposes a more deterministic methodology inspired by capability-based security. 
 
-The AI industry lacks a formal, deterministic execution boundary that clearly defines what an agent is *allowed* to do versus what it *recommends*. Existing approaches depend on prompts, tool allowlists, and best-effort guardrails that cannot be enforced, audited, or revoked at runtime.
+The AI industry lacks a formal, deterministic execution boundary that clearly defines what an agent is allowed to do versus what it recommends. Existing approaches depend on prompts, tool allowlists, and best-effort guardrails that cannot be enforced, audited, or revoked at runtime. DAE takes a different approach.
 
-DAE addresses this gap.
-
-DAE defines a production-ready, vendor-neutral security standard that separates reasoning from authority and enforces all actions through explicit, single-use, revocable capabilities validated by a deterministic runtime state machine. Under DAE, nothing happens unless it is explicitly authorized in code.
-
-The goal of DAE is simple: enable secure, auditable, deterministic agent execution by introducing a formal authority model that makes autonomous systems predictable, governable, and safe for real-world deployment.
+DAE defines a production-ready, vendor-neutral security standard that separates reasoning from authority and enforces all actions through explicit, single-use, revocable capabilities validated by a deterministic runtime state machine. Under DAE, nothing happens unless it is explicitly authorized in code. The goal of DAE is to enable secure, auditable, deterministic agent execution by introducing a formal authority model that makes autonomous systems predictable, governable, and safe for real-world deployment.
 
 <br>
 
 ## DAE Execution Model
 
-DAE provides a deterministic execution and security reference model for AI agents, describing the runtime mechanisms required to safely authorize, execute, and govern agent actions. Rather than layering intelligence, DAE layers *authority and enforcement*, ensuring that every action is intentional, approved, and verifiable.
+DAE provides a deterministic execution and security reference model for AI agents, describing the runtime mechanisms required to safely authorize, execute, and govern agent actions. Rather than layering intelligence, DAE layers authority and enforcement, ensuring that every action is intentional, approved, and verifiable.
 
 The DAE model is built around a strict separation of concerns:
 
@@ -99,7 +95,7 @@ Participation includes:
 
 <br>
 
-By working together, we can ensure DAE becomes a **widely adopted, rigorously defined execution standard** that enables trustworthy autonomy across the AI ecosystem.
+By working together, we can ensure DAE becomes a widely adopted, rigorously defined execution standard that enables trustworthy autonomy across the AI ecosystem.
 
 
 
