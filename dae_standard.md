@@ -39,15 +39,15 @@ This document defines:
 
 ### 1.1 Purpose
 
-> **Deterministic Agent Execution (DAE)** is the standard by which AI agents are allowed to act only when explicitly authorized by deterministic, revocable, single-use capabilities, enforced by a runtime state machine and independent of probabilistic reasoning systems.
+> Deterministic Agent Execution (DAE) is the standard by which AI agents are allowed to act only when explicitly authorized by deterministic, revocable, single-use capabilities, enforced by a runtime state machine and independent of probabilistic reasoning systems.
 
 <br>
 
 DAE is a new execution and security standard for AI agents that formally separates:
 
-* Reasoning** (probabilistic, model-driven)
+* Reasoning (probabilistic, model-driven)
   from
-* Authority** (deterministic, code-enforced)
+* Authority (deterministic, code-enforced)
 
 <br>
 
